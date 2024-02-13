@@ -1,0 +1,6 @@
+﻿  pflabproj.cpp
+C:\Users\syeda\OneDrive\Desktop\DevC++\Chess\Chess\pflabproj.cpp(1691,41): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\syeda\OneDrive\Desktop\DevC++\Chess\Chess\pflabproj.cpp(1729,45): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\syeda\OneDrive\Desktop\DevC++\Chess\Chess\pflabproj.cpp(2070,41): warning C4553: '==': result of expression not used; did you intend '='?
+C:\Users\syeda\OneDrive\Desktop\DevC++\Chess\Chess\pflabproj.cpp(2108,45): warning C4553: '==': result of expression not used; did you intend '='?
+  Chess.vcxproj -> C:\Users\syeda\OneDrive\Desktop\DevC++\Chess\x64\Debug\Chess.exe
